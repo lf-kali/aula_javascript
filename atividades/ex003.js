@@ -7,5 +7,5 @@ let descontos = readline.questionInt(`Digite os descontos: `);
 
 let salarioLiquido = salarioBruto + adicNoturno + horasExtras - descontos;
 
-console.log(`Salário Líquido: ${salarioLiquido}`)
+console.log(`Salário Líquido: ${salarioLiquido}`);
 

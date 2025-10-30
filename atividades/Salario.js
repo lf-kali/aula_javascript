@@ -5,4 +5,4 @@ let abono = readline.questionInt("Digite o abono: ")
 
 let novoSalario = salario + abono
 
-console.log(`Seu ganho total será ${novoSalario}`)
+console.log(`Seu novo salário será ${novoSalario}`)

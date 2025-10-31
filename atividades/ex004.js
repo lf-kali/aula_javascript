@@ -6,3 +6,5 @@ let num3 = readline.questionInt("numero 3: ");
 let num4 = readline.questionInt("numero 4: ");
 
 diff = (num1 * num2) - (num3 * num4);
+
+console.log(`A dieferença é ${diff}.`);
